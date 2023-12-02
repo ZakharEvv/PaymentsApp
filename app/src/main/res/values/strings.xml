@@ -52,4 +52,11 @@
     <string name="payments">Payments</string>
     <string name="log_out">Log out</string>
     <string name="passw_diff">Passwords are not the same</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
 </resources>
